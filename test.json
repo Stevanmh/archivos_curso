@@ -1,0 +1,40 @@
+{
+    "isActive": false,
+    "balance": "$1,232.88",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "green",
+    "name": "Isabelle Mccoy",
+    "gender": "female",
+    "company": "DATACATOR",
+    "email": "isabellemccoy@datacator.com",
+    "phone": "+1 (899) 573-3157",
+    "address": "762 Eaton Court, Edenburg, Kentucky, 8311",
+    "about": "Qui Lorem minim consequat incididunt in deserunt do occaecat. Proident proident excepteur duis amet duis veniam sit. Sint tempor ex eu reprehenderit anim cillum et reprehenderit laborum elit eu ullamco est. Mollit pariatur et nulla commodo incididunt pariatur qui adipisicing labore voluptate laborum elit irure sit. Nostrud aliqua eiusmod occaecat est sint Lorem deserunt eu dolor irure.\r\n",
+    "registered": "2021-04-06T07:09:35 +05:00",
+    "latitude": -24.345447,
+    "longitude": -60.932978,
+    "tags": [
+        "velit",
+        "quis",
+        "minim",
+        "ullamco",
+        "irure",
+        "fugiat",
+        "Lorem"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Cohen Scott"
+        },
+        {
+            "id": 1,
+            "name": "Maxwell Lewis"
+        },
+        {
+            "id": 2,
+            "name": "Rutledge Hood"
+        }
+    ]
+}
