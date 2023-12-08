@@ -1,0 +1,72 @@
+[
+  {
+    "age": 30,
+    "name": "Robbie Santiago",
+    "tags": [
+      "consectetur",
+      "consequat",
+      "magna",
+      "aliquip",
+      "mollit"
+    ]
+  },
+  {
+    "age": 31,
+    "name": "Patterson Juarez",
+    "tags": [
+      "non",
+      "aliqua",
+      "ea"
+    ]
+  },
+  {
+    "age": 34,
+    "name": "Johanna Summers",
+    "tags": [
+      "velit",
+      "est",
+      "sit"
+    ]
+  },
+  {
+    "age": 35,
+    "name": "Mari Odom",
+    "tags": [
+      "culpa",
+      "anim",
+      "magna"
+    ]
+  },
+  {
+    "age": 36,
+    "name": "Ellen Vaughn",
+    "tags": [
+      "ex",
+      "sit",
+      "tempor",
+      "adipisicing"
+    ]
+  },
+  {
+    "age": 21,
+    "name": "Coleman Higgins",
+    "tags": [
+      "id",
+      "duis",
+      "aliquip",
+      "reprehenderit",
+      "enim"
+    ]
+  },
+  {
+    "age": 31,
+    "name": "Mollie Wells",
+    "tags": [
+      "reprehenderit",
+      "laborum",
+      "non",
+      "laboris",
+      "cillum"
+    ]
+  }
+]
